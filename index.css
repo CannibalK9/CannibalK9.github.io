@@ -11,3 +11,7 @@ centre {
     display: block;
     text-align: center;
 }
+
+ noBullets ul {
+     list-style-type: none;
+} 
