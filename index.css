@@ -1,0 +1,13 @@
+﻿body {
+    width: 60%;
+    padding-left: 20%;
+}
+
+bold {
+    font-weight: bold;
+}
+
+centre {
+    display: block;
+    text-align: center;
+}
